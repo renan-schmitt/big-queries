@@ -1,0 +1,17 @@
+/Users/renanschmitt/git/big-queries/src/main/java/br/com/renanschmitt/medium/big_queries/BigQueriesApplication.java
+/Users/renanschmitt/git/big-queries/src/main/java/br/com/renanschmitt/medium/big_queries/api/CustomerController.java
+/Users/renanschmitt/git/big-queries/src/main/java/br/com/renanschmitt/medium/big_queries/api/OrderController.java
+/Users/renanschmitt/git/big-queries/src/main/java/br/com/renanschmitt/medium/big_queries/api/ProductController.java
+/Users/renanschmitt/git/big-queries/src/main/java/br/com/renanschmitt/medium/big_queries/api/ReportController.java
+/Users/renanschmitt/git/big-queries/src/main/java/br/com/renanschmitt/medium/big_queries/dto/ReportDto.java
+/Users/renanschmitt/git/big-queries/src/main/java/br/com/renanschmitt/medium/big_queries/model/Customer.java
+/Users/renanschmitt/git/big-queries/src/main/java/br/com/renanschmitt/medium/big_queries/model/Order.java
+/Users/renanschmitt/git/big-queries/src/main/java/br/com/renanschmitt/medium/big_queries/model/OrderItem.java
+/Users/renanschmitt/git/big-queries/src/main/java/br/com/renanschmitt/medium/big_queries/model/Product.java
+/Users/renanschmitt/git/big-queries/src/main/java/br/com/renanschmitt/medium/big_queries/repositories/CustomerRepository.java
+/Users/renanschmitt/git/big-queries/src/main/java/br/com/renanschmitt/medium/big_queries/repositories/OrderRepository.java
+/Users/renanschmitt/git/big-queries/src/main/java/br/com/renanschmitt/medium/big_queries/repositories/ProductRepository.java
+/Users/renanschmitt/git/big-queries/src/main/java/br/com/renanschmitt/medium/big_queries/services/CustomerService.java
+/Users/renanschmitt/git/big-queries/src/main/java/br/com/renanschmitt/medium/big_queries/services/OrderService.java
+/Users/renanschmitt/git/big-queries/src/main/java/br/com/renanschmitt/medium/big_queries/services/ProductService.java
+/Users/renanschmitt/git/big-queries/src/main/java/br/com/renanschmitt/medium/big_queries/services/ReportService.java
